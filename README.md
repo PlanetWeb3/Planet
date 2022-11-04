@@ -58,7 +58,7 @@
 
 ### 运行壁纸
 在[Release](https://github.com/PlanetWeb3/Planet/releases/tag/v0.1.2-alpha)中找到最新版下载`Planet_0_1_2_alpha.zip
-`并解压，直接运行`Planet.exe`即可。目前的Demo如果需要运行壁纸的话，请在Wallpaper Engine里导入该可执行文件，但是Wallpaper Engine会导致无法输入文字（甚至无法启动游戏），建议目前未来将迁移到第一方的壁纸引擎。
+`并解压，直接运行`Planet.exe`即可。目前的Demo如果需要运行壁纸的话，请在Wallpaper Engine里导入该可执行文件，但是Wallpaper Engine会导致无法输入文字（甚至无法启动游戏），建议目前直接运行exe体验，未来将迁移到第一方的壁纸引擎。
 
 ### 登陆
 在登陆界面输入账号名登陆，目前v0.1.2-alpha版本由于一些技术问题只有一个用户，请输入**Planet**。
